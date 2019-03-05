@@ -1,16 +1,3 @@
-/******************************************************************************/
-/*!
-\file   math.cpp
-\par    Purpose: Implementations of math functions
-\par    Language: C++
-\par    Platform: Visual Studio 2013, Windows 7 64-bit
-\author Sang Le
-\par    Email: sang.le\@digipen.edu
-\par    DigiPen login: sang.le
-\date   28/10/2014
-*/
-/******************************************************************************/
-
 #include "math.hpp"
 
 

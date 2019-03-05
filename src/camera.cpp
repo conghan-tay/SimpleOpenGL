@@ -1,16 +1,3 @@
-/******************************************************************************/
-/*!
-\file   camera.cpp
-\par    Purpose: Implementation of camera class
-\par    Language: C++
-\par    Platform: Visual Studio 2013, Windows 7 64-bit
-\author Sang Le
-\par    Email: sang.le\@digipen.edu
-\par    DigiPen login: sang.le
-\date   27/3/2015
-*/
-/******************************************************************************/
-
 #include "camera.hpp"
 
 

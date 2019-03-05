@@ -1,16 +1,3 @@
-/******************************************************************************/
-/*!
-\file   graphics.hpp
-\par    Purpose: Declaring the graphics-related variables & functions
-\par    Language: C++
-\par    Platform: Visual Studio 2013, Windows 7 64-bit
-\author Sang Le
-\par    Email: sang.le\@digipen.edu
-\par    DigiPen login: sang.le
-\date   31/3/2015
-*/
-/******************************************************************************/
-
 #ifndef GRAPHICS_HPP
 #define GRAPHICS_HPP
 

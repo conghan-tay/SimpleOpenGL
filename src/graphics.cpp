@@ -1,16 +1,3 @@
-/******************************************************************************/
-/*!
-\file   graphics.cpp
-\par    Purpose: Implement the graphics-related functions
-\par    Language: C++
-\par    Platform: Visual Studio 2013, Windows 7 64-bit
-\author Sang Le, YOUR_NAME
-\par    Email: sang.le\@digipen.edu, YOUR_EMAIL_ID
-\par    DigiPen login: sang.le, YOUR_LOGIN_ID
-\date   YOUR_COMPLETION_DATE
-*/
-/******************************************************************************/
-
 #ifdef _MSC_VER
 #define _CRT_SECURE_NO_WARNINGS
 #endif
